@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+.profile_box{
+    padding:20px;
+   }
+ .inp{
+   position: relative;
+   bottom:60px;
+   left:110px;
+ }
+ .inp2{
+   padding: 5px;
+   position:relative;
+   right: 5px;
+ }
+ .bio{
+   position: relative;
+   bottom:60px;
+ }
+ .courses{
+   display:flex;
+   justify-content: space-between;
+ }
+ .img2{
+   width:250px;
+   height:200px;
+   padding:3px;
+   border-radius:15px;
+   position: relative;
+   top:15px;
+ }
+ .img2:hover{
+   background-color:antiquewhite;
+ }
+ .v1{
+   border-left: 2px solid green;
+   height:205px;
+   position:relative;
+   top:10px;
+   right:1px;
+ }
+ .img3{
+   width:225px;
+   height:200px;
+   padding:3px;
+   border-radius:15px;
+   position: relative;
+   top:15px;
+ }
+ .img3:hover{
+   background-color:antiquewhite;
+ }
+ 
+ .v2{
+   border-left: 2px solid green;
+   height:205px;
+   position:relative;
+   top:10px;
+   left:0px;
+ }
+ .img4{
+   width:225px;
+   height:200px;
+   padding:3px;
+   border-radius:15px;
+   position: relative;
+   top:15px;
+   right:10px;
+ }
+ .img4:hover{
+   background-color:antiquewhite;
+ }
+ 
+ .v3{
+   border-left: 2px solid green;
+   height:205px;
+   position:relative;
+   top:10px;
+   left:0px;
+ }
+ .img5{
+   width:225px;
+   height:200px;
+   padding:3px;
+   border-radius:15px;
+   position: relative;
+   top:15px;
+   right:20px;
+ }
+ .img5:hover{
+   background-color:antiquewhite;
+ }
+ .fotter_hed{
+   position: relative;
+   top:25px;
+ }
+ .img6{
+   position: relative;
+   top:26px;
+ }
+ .title{
+   position: absolute;
+   top:32px;
+   left:700px;
+   text-decoration:underline;
+ }
